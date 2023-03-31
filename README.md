@@ -26,6 +26,25 @@ Our data model represents the social media app, Instagram. The model consists of
 [Data.Dictionary.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11117067/Data.Dictionary.pdf)
 
 # SQL Queries
+TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the names of users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
+
+TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
+
+TP_Q3: This query returns the number of messages a community has sent if the message was sent during the day (12:00-18:00). A query like this is can be helpful in determining when communities are most active or when messaging servers could potentially reach capacity.
+
+TP_Q4: This query returns the number of messages each account has sent in descending order given that the account has more than 500 followers. A manager may be interested in this data to gauge how active a particular account is.
+
+TP_Q5: This query returns the account handles that start with the letter "c," if any, as well as the name of the corresponding user and the community they belong to. A manager may be interested in this data to view information about accounts with related names quickly (by replacing “c” with whichever letter they choose).
+
+TP_Q6: This query returns all attributes pertaining to accounts and the community they're a part of if the account uses content scheduling. A query like this may be helpful in determining certain attributes (type of account, number of posts, etc.) that may play a factor in determining whether or not the account uses the content scheduling feature.
+
+TP_Q7: This query will list the name and DOB of users that send messages with vanish mode and use content scheduling in order of oldest to youngest. A query like this is useful for tracking the use of some of the new features on Instagram. In more serious cases, this can also help track messages with illegal content back to their sender even if they attempt to hide the message by using vanishing mode.
+
+TP_Q8: This query will list accounts’ ID, handle, and the user’s name and email address associated with the accounts that have no video content posted. A query like this is useful for being able to identify and contact individuals to promote Instagram’s video functionality.
+
+TP_Q9: This query returns the account type and number of times each account type schedules content. A query like this could be helpful for adding possible features that cater towards account types that are frequent users of the content scheduler (ex. If a sports team has games every Saturday at noon, they can schedule a recurring post for each week of the season).
+
+TP_Q10: This query returns the number of shares for each content type. A manager may be interest in this data to determine what type of content is shared the most among users (could be useful for ad monetization, promotions, etc.).
 
 # Query Matrix
 [Query.Matrix.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11122382/Query.Matrix.pdf)
@@ -34,4 +53,5 @@ Our data model represents the social media app, Instagram. The model consists of
 ![229013936-f2de64e6-3d0b-4abb-a739-bc9479cf21f6](https://user-images.githubusercontent.com/129444082/229136546-cd0cc594-d3d0-435f-a149-f6cf05164e20.png)
 
 # Database Information
-Name: ns_21479_8
+• Name: ns_21479_8
+• Procedure format: TP_QX
