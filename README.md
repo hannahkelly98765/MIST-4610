@@ -86,9 +86,8 @@ TP_Q10: This query returns the number of shares for each content type. A manager
 
 [Query.Matrix.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11122382/Query.Matrix.pdf)
 
+![229201894-21c90eaf-5bf3-4fa3-8654-3159203245b8](https://user-images.githubusercontent.com/129444082/229232943-aae4fec9-0c5e-4999-872c-a53581e0aee2.png)
 
-
-[Query.Matrix.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11122382/Query.Matrix.pdf)
 
 
 # Database Information
