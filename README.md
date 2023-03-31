@@ -48,6 +48,7 @@ TP_Q3: This query returns the number of messages a community has sent if the mes
 TP_Q4: This query returns the number of messages each account has sent in descending order given that the account has more than 500 followers. A manager may be interested in this data to gauge how active a particular account is.
 
 
+![229005627-4a5c8a5b-46de-4986-a430-f6c0ccfd0bc2](https://user-images.githubusercontent.com/129444082/229139020-2205586d-8889-4aa8-bc6c-6965c93ded7a.png)
 
 
 
