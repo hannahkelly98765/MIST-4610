@@ -54,19 +54,36 @@ TP_Q4: This query returns the number of messages each account has sent in descen
 
 TP_Q5: This query returns the account handles that start with the letter "c," if any, as well as the name of the corresponding user and the community they belong to. A manager may be interested in this data to view information about accounts with related names quickly (by replacing “c” with whichever letter they choose).
 
-
+![229006480-c3de6787-1171-41a0-a86c-a4966375d4a7](https://user-images.githubusercontent.com/129444082/229139934-b22ec6ca-f7fe-42a0-abea-93a9c9888754.png)
 
 
 
 TP_Q6: This query returns all attributes pertaining to accounts and the community they're a part of if the account uses content scheduling. A query like this may be helpful in determining certain attributes (type of account, number of posts, etc.) that may play a factor in determining whether or not the account uses the content scheduling feature.
 
+![229006685-cdd56a3e-5c13-4649-8cb8-c1b6a8cbff48](https://user-images.githubusercontent.com/129444082/229139952-1ae34fa2-8707-4f5c-9418-8490f81bf9fe.png)
+
+
 TP_Q7: This query will list the name and DOB of users that send messages with vanish mode and use content scheduling in order of oldest to youngest. A query like this is useful for tracking the use of some of the new features on Instagram. In more serious cases, this can also help track messages with illegal content back to their sender even if they attempt to hide the message by using vanishing mode.
+
+![229009731-0c72005f-2083-4c19-ae5f-b2ad2dc292e2](https://user-images.githubusercontent.com/129444082/229140026-291263da-e5a0-4095-bac8-384bf5112d28.png)
+
 
 TP_Q8: This query will list accounts’ ID, handle, and the user’s name and email address associated with the accounts that have no video content posted. A query like this is useful for being able to identify and contact individuals to promote Instagram’s video functionality.
 
+![229010324-79f27bde-239a-46be-b596-25f9dc809473](https://user-images.githubusercontent.com/129444082/229140098-f0101a59-ca4e-43f9-a872-5a1840f31909.png)
+
+
+
 TP_Q9: This query returns the account type and number of times each account type schedules content. A query like this could be helpful for adding possible features that cater towards account types that are frequent users of the content scheduler (ex. If a sports team has games every Saturday at noon, they can schedule a recurring post for each week of the season).
 
+![229010798-223b204b-95b7-42eb-8501-2d9e88078e57](https://user-images.githubusercontent.com/129444082/229140148-39f9a4de-7d7a-446f-80b1-8b387707e11e.png)
+
+
+
 TP_Q10: This query returns the number of shares for each content type. A manager may be interest in this data to determine what type of content is shared the most among users (could be useful for ad monetization, promotions, etc.).
+
+![229012597-cf0cbdfa-f5da-46da-b5d9-66b192682852](https://user-images.githubusercontent.com/129444082/229140197-84eba843-a272-4f30-97dd-6fff6b160187.png)
+
 
 # Query Matrix
 [Query.Matrix.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11122382/Query.Matrix.pdf)
