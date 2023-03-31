@@ -40,11 +40,16 @@ TP_Q2: This query returns the username of accounts that have more followers than
 TP_Q3: This query returns the number of messages a community has sent if the message was sent during the day (12:00-18:00). A query like this is can be helpful in determining when communities are most active or when messaging servers could potentially reach capacity.
 
 
+![229004811-b77e18de-98ee-4b82-8ca8-c96d945fcd10](https://user-images.githubusercontent.com/129444082/229138847-8df236c9-c6aa-4305-8fdc-7f889f7c4ac3.png)
 
 
 
 
 TP_Q4: This query returns the number of messages each account has sent in descending order given that the account has more than 500 followers. A manager may be interested in this data to gauge how active a particular account is.
+
+
+
+
 
 TP_Q5: This query returns the account handles that start with the letter "c," if any, as well as the name of the corresponding user and the community they belong to. A manager may be interested in this data to view information about accounts with related names quickly (by replacing “c” with whichever letter they choose).
 
