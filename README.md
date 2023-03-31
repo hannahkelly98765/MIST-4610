@@ -2,9 +2,13 @@
 
 # Group Members
 Hannah Kelly 
+
 Emma Dolson 
+
 Shir Kochi 
+
 Kaden Williams
+
 Donovan Vanderpool 
 
 # Problem Description
