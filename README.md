@@ -28,7 +28,13 @@ Our data model represents the social media app, Instagram. The model consists of
 # SQL Queries
 TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the names of users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
 
+![228975952-f234cea1-e0df-4a5a-81ec-e56ddce18d3f](https://user-images.githubusercontent.com/129444082/229138266-7b51f087-0690-4aee-b1ee-6c7b16b5301f.png)
+
+
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
+
+
+
 
 TP_Q3: This query returns the number of messages a community has sent if the message was sent during the day (12:00-18:00). A query like this is can be helpful in determining when communities are most active or when messaging servers could potentially reach capacity.
 
@@ -54,4 +60,5 @@ TP_Q10: This query returns the number of shares for each content type. A manager
 
 # Database Information
 • Name: ns_21479_8
+
 • Procedure format: TP_QX
