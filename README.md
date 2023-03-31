@@ -33,10 +33,16 @@ TP_Q1: This query converts the user's date of birth into their age as an integer
 
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
 
+![228975924-504bf5ab-16bc-4833-bd52-2227b2c1594b-1](https://user-images.githubusercontent.com/129444082/229138585-8476f7df-0b5a-4a67-8bf0-16cbfa87bfb3.png)
 
 
 
 TP_Q3: This query returns the number of messages a community has sent if the message was sent during the day (12:00-18:00). A query like this is can be helpful in determining when communities are most active or when messaging servers could potentially reach capacity.
+
+
+
+
+
 
 TP_Q4: This query returns the number of messages each account has sent in descending order given that the account has more than 500 followers. A manager may be interested in this data to gauge how active a particular account is.
 
