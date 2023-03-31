@@ -27,5 +27,9 @@ Our data model represents the social media app, Instagram. The model consists of
 
 # SQL Queries
 
+# Query Matrix
+
+
+
 # Database Information
-ns_21479_8
+Name: ns_21479_8
