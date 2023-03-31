@@ -7,7 +7,7 @@
 
 • [Shir Kochi](https://github.com/shirkorchi/GroupProject1)
 
-• [Kaden Williams]()
+• [Kaden Williams](https://github.com/kadenwilliams1/21479_-8)
 
 • [Donovan Vanderpool](https://github.com/donovanv2/MIST4610/)
 
@@ -16,10 +16,7 @@ Our data model represents the social media app, Instagram. The model consists of
 
 # Data Model
 <img width="978" alt="Screenshot 2023-03-30 at 8 16 49 PM" src="https://user-images.githubusercontent.com/129444082/228992019-5361b9e6-338c-46cf-a6bd-bbe885eeeddb.png">
-• 1:M Relationships: users have many accounts, users can send many messages, users can receive many messages, content schedule can schedule multiple content, accounts can have many shares, content can have many shares, accounts can have many comments, comments can be added to multiple content, accounts can have many likes, likes can be given to multiple content.
-
-
-• M:M Relationships: accounts can belong to many communities and communities can have many accounts, communities can have many community types and community types can have many communities
+A user can have many accounts but an account can only have one user. An account can send and receive many messages but a message can only have one sender and one receiver. The content scheduler can schedule multiple instances of content but an instance of content can only have one schedule. Accounts and content can have many shares but each share can only belong to one account that shares one instance of content. Accounts can make many comments but one comment can only be made by one account. Content can have many comments but one comment can only be added to one instance of content. Accounts and content can have many likes but a like can only belong to one account and one instance of content. Accounts can belong to many communities and communities can have many accounts. Communities can have many community types and community types can have many communities.
 
 
 # Data Dictionary
@@ -86,10 +83,13 @@ TP_Q10: This query returns the number of shares for each content type. A manager
 
 
 # Query Matrix
+
 [Query.Matrix.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11122382/Query.Matrix.pdf)
 
 
-![229013936-f2de64e6-3d0b-4abb-a739-bc9479cf21f6](https://user-images.githubusercontent.com/129444082/229136546-cd0cc594-d3d0-435f-a149-f6cf05164e20.png)
+
+[Query.Matrix.pdf](https://github.com/hannahkelly98765/MIST-4610/files/11122382/Query.Matrix.pdf)
+
 
 # Database Information
 • Name: ns_21479_8
