@@ -1,5 +1,12 @@
 # Modeling Instagram Data
 
+# Group Members
+Hannah Kelly 
+Emma Dolson 
+Shir Kochi 
+Kaden Williams
+Donovan Vanderpool 
+
 # Problem Description
 Our data model represents the social media app, Instagram. The model consists of user accounts, which have associated profiles, content, and followers/following relationships. Each post can have multiple associated media, such as images or videos, which users can interact with through likes, comments, and shares. Instagram also supports messaging between users and the creation of stories, which are temporary posts that expire after a set time period. Tracking user activity helps Instagram generate personalized recommendations and trends to improve user experience. Despite being one of the most popular social media platforms in the world, Instagram does not allow its users to schedule posts in advance or to create communities of niche interests. From a backend perspective, our model demonstrates how users would interact with these two features and new insights Instagram could gain from them.
 
